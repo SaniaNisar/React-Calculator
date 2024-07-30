@@ -1,6 +1,7 @@
 # React Calculator App
 A simple calculator application built using React, featuring basic arithmetic operations and more.
 
+![image](https://github.com/user-attachments/assets/a7cefe9c-27c5-437c-9258-ee350e80ba5f)
 ## Features
 
 - **Display**: Shows the current calculation or result.
